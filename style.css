@@ -234,8 +234,9 @@ a[ id= "#contact" ]:target ~ #pages article.panel {
 .panel h1.current {
   font-family: 'Julius Sans One', sans-serif;
 
-  font-weight: 500;
-  font-size: 30px;
+  
+  font-size: 15px;
+ font-weight:bold;
   color:#000000;
   position:relative;
   line-height: 20px;
@@ -248,12 +249,13 @@ a[ id= "#contact" ]:target ~ #pages article.panel {
   margin:0 auto;
 
 
-  margin:50px;;
+  margin:50px;
 }
 
 .panel h1.skillz {
  font-family: 'Julius Sans One', sans-serif;
   font-size: 15px;
+ font-weight:bold;
   color:#000000;
   position:relative;
   line-height: 30px;
