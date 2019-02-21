@@ -186,14 +186,13 @@ border-radius: 40px;
 }
 
 .panel h1 {
-  font-family: 'Press Start 2P', cursive;
-  font-size: 25px;
+  font-family: 'Julius Sans One', sans-serif;
+  font-size: 90px;
   color:#000000;
   position:relative;
   line-height: 150px;
   top:100px;
   text-align: center;
-  text-decoration: underline;
 
 
   margin: 50px;
@@ -230,7 +229,7 @@ a[ id= "#contact" ]:target ~ #pages article.panel {
 
 
 .panel h1.current {
-  font-family: 'Press Start 2P', cursive;
+  font-family: 'Julius Sans One', sans-serif;
   font-size: 15px;
   color:#000000;
   position:relative;
@@ -248,7 +247,7 @@ a[ id= "#contact" ]:target ~ #pages article.panel {
 }
 
 .panel h1.skillz {
-  font-family: 'Press Start 2P', cursive;
+ font-family: 'Julius Sans One', sans-serif;
   font-size: 15px;
   color:#000000;
   position:relative;
@@ -322,7 +321,7 @@ article.panel .linkedIn:hover {
 footer {
 
   position:absolute;
-  font-family: 'Press Start 2P', cursive;
+ font-family: 'Julius Sans One', sans-serif;
   font-size: 15px;
   color:#000000;
 
