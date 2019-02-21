@@ -2,7 +2,8 @@
 
  body {
    width:100%
-  font-family: 'Lobster', cursive;
+  font-family: 'Julius Sans One', sans-serif;
+   font-weight: 500;
   background-size:cover;
   background-repeat:no-repeat;
   background-position: center center;
@@ -16,8 +17,9 @@
 
 header {
 
-  font-family: 'Lobster', cursive;
-  font-size: 25px;
+  font-family: 'Julius Sans One', sans-serif;
+ font-weight: 900;
+  font-size: 90px;
   color:#000000;
   background: #FFD4D4;
 
