@@ -227,7 +227,10 @@ a[ id= "#contact" ]:target ~ #pages article.panel {
   border-radius: 50%
 }
 
-
+ article.panel .kiki {
+  height: 50%;
+  width: 50%;
+}
 .panel h1.current {
   font-family: 'Julius Sans One', sans-serif;
   font-size: 15px;
