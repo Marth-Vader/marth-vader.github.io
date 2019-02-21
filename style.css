@@ -18,7 +18,7 @@ header {
 
   font-family: 'Press Start 2P', cursive;
   font-size: 25px;
-  color:#A75151;
+  color:#000000;
   background: #FFD4D4;
 
   position:fixed;
@@ -61,7 +61,7 @@ background-color: rgba(0,0,0,0);
 
 
 header div.topnav ul.options {
-  fill:#FFD4D4;
+  fill:#000000;
   margin: 0x;
   display:block;
   list-style: none;
@@ -85,7 +85,7 @@ ul.options li a.button {
   height:60px;
   display:block;
 
-  fill:#A75151;
+  fill:#000000;
   background: none;
   box-shadow: none;
   outline:none;
@@ -186,7 +186,7 @@ border-radius: 40px;
 .panel h1 {
   font-family: 'Press Start 2P', cursive;
   font-size: 25px;
-  color:#A75151;
+  color:#000000;
   position:relative;
   line-height: 150px;
   top:100px;
@@ -230,7 +230,7 @@ a[ id= "#contact" ]:target ~ #pages article.panel {
 .panel h1.current {
   font-family: 'Press Start 2P', cursive;
   font-size: 15px;
-  color:#A75151;
+  color:#000000;
   position:relative;
   line-height: 20px;
   top:100px;
@@ -248,7 +248,7 @@ a[ id= "#contact" ]:target ~ #pages article.panel {
 .panel h1.skillz {
   font-family: 'Press Start 2P', cursive;
   font-size: 15px;
-  color:#A75151;
+  color:#000000;
   position:relative;
   line-height: 30px;
   top:100px;
@@ -297,7 +297,7 @@ article.panel .linkedIn {
   margin-top: 50px;
   width: 100px;
   height:100px;
-  fill: #2E4D8B;
+  fill: #000000;
   background: none;
   box-shadow: none;
   outline:none;
@@ -322,7 +322,7 @@ footer {
   position:absolute;
   font-family: 'Press Start 2P', cursive;
   font-size: 15px;
-  color:#A75151;
+  color:#000000;
 
   right:0;
   left:0;
@@ -339,7 +339,7 @@ footer {
   margin-top: 100px;;
   width: 100px;
   height:100px;
-  fill: #B55A5A;
+  fill: #000000;
   background: none;
   box-shadow: none;
   outline:none;
