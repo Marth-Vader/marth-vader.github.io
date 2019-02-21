@@ -233,7 +233,9 @@ a[ id= "#contact" ]:target ~ #pages article.panel {
 }
 .panel h1.current {
   font-family: 'Julius Sans One', sans-serif;
-  font-size: 15px;
+
+  font-weight: 500;
+  font-size: 30px;
   color:#000000;
   position:relative;
   line-height: 20px;
